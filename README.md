@@ -17,5 +17,5 @@ Online testing link: http://url.lty2.cn/woodfish/
 I also wrote another multiplayer version: (Chinese only)
 http://muyu.lty2.cn/
 
-New features such as woodfish’s skin will be updated when the video in bilibili has reached 2k likes:  
+New features such as woodfish’s skin will be updated when the video in bilibili has reached 2k likes:  (Chinese only)
 https://www.bilibili.com/video/BV1We4y1U7j8
