@@ -1,5 +1,5 @@
 # woodfish
-电子木鱼，用html+js开发的
+电子木鱼，用html+css+js开发
 在线测试地址
 http://url.lty2.cn/woodfish/
 
